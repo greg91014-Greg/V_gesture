@@ -29,7 +29,7 @@ st.sidebar.info(f"當前過濾：僅顯示置信度 ≥ {conf_threshold} 的結�
 
 # --- 主畫面 (Main) ---
 st.title("✌️ 勝利手勢 (Victory Gesture) 偵測系統")
-st.markdown(f"**開發者：** {南大附中} - {翁睿澤}")
+st.markdown(f"**開發者：** 南大附中 - 翁睿澤")
 
 # 2. 載入模型
 @st.cache_resource
